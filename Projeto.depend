@@ -1,0 +1,3906 @@
+# depslib dependency file v1.0
+1523472406 source:c:\users\alunocomp\downloads\opengl\main.cpp
+	<GL/glew.h>
+	<GL/glu.h>
+	"stdio.h"
+	<vector>
+	"PIG.h"
+
+1407851732 c:\users\alunocomp\downloads\opengl\glew-1.11.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1520446726 c:\users\alunocomp\downloads\opengl\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CPoolNumeros.h"
+	"SDL_mixer.h"
+	"CAssetLoader.h"
+	"CMapaCaracteres.h"
+	"CGerenciadorObjetos.h"
+	"CGerenciadorTimers.h"
+	"CGerenciadorParticulas.h"
+	"CGerenciadorAnimacoes.h"
+	"CMouse.h"
+	"CJogo.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\begin_code.h
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\close_code.h
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156544 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376141916 c:\users\alunocomp\downloads\opengl\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520448944 c:\users\alunocomp\downloads\opengl\include\tipos_pig.h
+
+1422929484 c:\users\alunocomp\downloads\opengl\include\cpoolnumeros.h
+
+1508769188 c:\users\alunocomp\downloads\opengl\include\sdl\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520447350 c:\users\alunocomp\downloads\opengl\include\cassetloader.h
+
+1520657272 c:\users\alunocomp\downloads\opengl\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1510174436 c:\users\alunocomp\downloads\opengl\include\coffscreenrenderer.h
+	"CPilhaCoordenada.h"
+
+1453507518 c:\users\alunocomp\downloads\opengl\include\cpilhacoordenada.h
+
+1510002622 c:\users\alunocomp\downloads\opengl\include\cgerenciadorobjetos.h
+	"CObjeto.h"
+
+1520447460 c:\users\alunocomp\downloads\opengl\include\cobjeto.h
+
+1472006840 c:\users\alunocomp\downloads\opengl\include\cgerenciadortimers.h
+	"CTimer.h"
+
+1471471856 c:\users\alunocomp\downloads\opengl\include\ctimer.h
+
+1509667224 c:\users\alunocomp\downloads\opengl\include\cgerenciadorparticulas.h
+	"CGeradorParticulas.h"
+
+1509667262 c:\users\alunocomp\downloads\opengl\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1472173426 c:\users\alunocomp\downloads\opengl\include\cparticula.h
+
+1509667310 c:\users\alunocomp\downloads\opengl\include\cgerenciadoranimacoes.h
+	"CAnimacao.h"
+
+1472251542 c:\users\alunocomp\downloads\opengl\include\canimacao.h
+
+1472266038 c:\users\alunocomp\downloads\opengl\include\cmouse.h
+
+1520450844 c:\users\alunocomp\downloads\opengl\include\cjogo.h
+
+1525631733 source:c:\users\eduardo\downloads\meu jogo\main.cpp
+	<GL/glew.h>
+	<GL/glu.h>
+	"stdio.h"
+	"PIG.h"
+
+1407851732 c:\users\eduardo\downloads\meu jogo\glew-1.11.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1520446726 c:\users\eduardo\downloads\meu jogo\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CPoolNumeros.h"
+	"SDL_mixer.h"
+	"CAssetLoader.h"
+	"CMapaCaracteres.h"
+	"CGerenciadorObjetos.h"
+	"CGerenciadorTimers.h"
+	"CGerenciadorParticulas.h"
+	"CGerenciadorAnimacoes.h"
+	"CMouse.h"
+	"CJogo.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\begin_code.h
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\close_code.h
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156544 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376141916 c:\users\eduardo\downloads\meu jogo\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520448944 c:\users\eduardo\downloads\meu jogo\include\tipos_pig.h
+
+1422929484 c:\users\eduardo\downloads\meu jogo\include\cpoolnumeros.h
+
+1508769188 c:\users\eduardo\downloads\meu jogo\include\sdl\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520447350 c:\users\eduardo\downloads\meu jogo\include\cassetloader.h
+
+1520657272 c:\users\eduardo\downloads\meu jogo\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1510174436 c:\users\eduardo\downloads\meu jogo\include\coffscreenrenderer.h
+	"CPilhaCoordenada.h"
+
+1453507518 c:\users\eduardo\downloads\meu jogo\include\cpilhacoordenada.h
+
+1510002622 c:\users\eduardo\downloads\meu jogo\include\cgerenciadorobjetos.h
+	"CObjeto.h"
+
+1520447460 c:\users\eduardo\downloads\meu jogo\include\cobjeto.h
+
+1472006840 c:\users\eduardo\downloads\meu jogo\include\cgerenciadortimers.h
+	"CTimer.h"
+
+1471471856 c:\users\eduardo\downloads\meu jogo\include\ctimer.h
+
+1509667224 c:\users\eduardo\downloads\meu jogo\include\cgerenciadorparticulas.h
+	"CGeradorParticulas.h"
+
+1509667262 c:\users\eduardo\downloads\meu jogo\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1472173426 c:\users\eduardo\downloads\meu jogo\include\cparticula.h
+
+1509667310 c:\users\eduardo\downloads\meu jogo\include\cgerenciadoranimacoes.h
+	"CAnimacao.h"
+
+1472251542 c:\users\eduardo\downloads\meu jogo\include\canimacao.h
+
+1472266038 c:\users\eduardo\downloads\meu jogo\include\cmouse.h
+
+1520450844 c:\users\eduardo\downloads\meu jogo\include\cjogo.h
+
+1525563627 source:c:\users\eduardo\downloads\meu jogo2\main.cpp
+	<GL/glew.h>
+	<GL/glu.h>
+	"stdio.h"
+	<vector>
+	"PIG.h"
+
+1407851732 c:\users\eduardo\downloads\meu jogo2\glew-1.11.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1520446726 c:\users\eduardo\downloads\meu jogo2\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CPoolNumeros.h"
+	"SDL_mixer.h"
+	"CAssetLoader.h"
+	"CMapaCaracteres.h"
+	"CGerenciadorObjetos.h"
+	"CGerenciadorTimers.h"
+	"CGerenciadorParticulas.h"
+	"CGerenciadorAnimacoes.h"
+	"CMouse.h"
+	"CJogo.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\begin_code.h
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\close_code.h
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508783382 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156544 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376141916 c:\users\eduardo\downloads\meu jogo2\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520448944 c:\users\eduardo\downloads\meu jogo2\include\tipos_pig.h
+
+1422929484 c:\users\eduardo\downloads\meu jogo2\include\cpoolnumeros.h
+
+1508769188 c:\users\eduardo\downloads\meu jogo2\include\sdl\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520447350 c:\users\eduardo\downloads\meu jogo2\include\cassetloader.h
+
+1520657272 c:\users\eduardo\downloads\meu jogo2\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1510174436 c:\users\eduardo\downloads\meu jogo2\include\coffscreenrenderer.h
+	"CPilhaCoordenada.h"
+
+1453507518 c:\users\eduardo\downloads\meu jogo2\include\cpilhacoordenada.h
+
+1510002622 c:\users\eduardo\downloads\meu jogo2\include\cgerenciadorobjetos.h
+	"CObjeto.h"
+
+1520447460 c:\users\eduardo\downloads\meu jogo2\include\cobjeto.h
+
+1472006840 c:\users\eduardo\downloads\meu jogo2\include\cgerenciadortimers.h
+	"CTimer.h"
+
+1471471856 c:\users\eduardo\downloads\meu jogo2\include\ctimer.h
+
+1509667224 c:\users\eduardo\downloads\meu jogo2\include\cgerenciadorparticulas.h
+	"CGeradorParticulas.h"
+
+1509667262 c:\users\eduardo\downloads\meu jogo2\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1472173426 c:\users\eduardo\downloads\meu jogo2\include\cparticula.h
+
+1509667310 c:\users\eduardo\downloads\meu jogo2\include\cgerenciadoranimacoes.h
+	"CAnimacao.h"
+
+1472251542 c:\users\eduardo\downloads\meu jogo2\include\canimacao.h
+
+1472266038 c:\users\eduardo\downloads\meu jogo2\include\cmouse.h
+
+1520450844 c:\users\eduardo\downloads\meu jogo2\include\cjogo.h
+
+1528077134 source:c:\users\eduardo\downloads\blockout upado\main.cpp
+	<GL/glew.h>
+	<GL/glu.h>
+	"glm/glm.hpp"
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/intersect.hpp>
+	"stdio.h"
+	"PIG.h"
+
+1407851732 c:\users\eduardo\downloads\blockout upado\glew-1.11.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<cstdint>
+
+1412984368 c:\users\eduardo\downloads\blockout upado\include\glm\detail\setup.hpp
+	<cassert>
+	<cuda.h>
+	<x86intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\precision.hpp
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\_swizzle.hpp
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\_swizzle_func.hpp
+
+1393354078 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_vec2.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1393354078 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_vec3.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_vec4.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat2x2.inl"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat2x2.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat2x3.inl"
+
+1393351994 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat2x3.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat2x4.inl"
+
+1393351994 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat2x4.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat3x2.inl"
+
+1393351994 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat3x2.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat3x3.inl"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat3x3.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat3x4.inl"
+
+1393351994 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat3x4.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat4x2.inl"
+
+1393351994 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat4x2.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat4x3.inl"
+
+1393351994 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat4x3.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1393351994 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_mat4x4.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_trigonometric.hpp
+	"func_trigonometric.inl"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1393351994 c:\users\eduardo\downloads\blockout upado\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1393354078 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_vec1.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1393351994 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1396394864 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cassert>
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1403287824 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1403287824 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1403287824 c:\users\eduardo\downloads\blockout upado\include\glm\detail\type_half.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1403287824 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1403361216 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"func_integer.inl"
+
+1396394864 c:\users\eduardo\downloads\blockout upado\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1403301672 c:\users\eduardo\downloads\blockout upado\include\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1393351994 c:\users\eduardo\downloads\blockout upado\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\gtc\constants.inl
+	<limits>
+
+1403287824 c:\users\eduardo\downloads\blockout upado\include\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\gtc\type_ptr.inl
+	<cstring>
+
+1403356714 c:\users\eduardo\downloads\blockout upado\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1403356714 c:\users\eduardo\downloads\blockout upado\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1396394830 c:\users\eduardo\downloads\blockout upado\include\glm\gtx\intersect.hpp
+	"../glm.hpp"
+	"../gtx/closest_point.hpp"
+	"intersect.inl"
+
+1396394830 c:\users\eduardo\downloads\blockout upado\include\glm\gtx\closest_point.hpp
+	"../glm.hpp"
+	"closest_point.inl"
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\gtx\closest_point.inl
+
+1389476280 c:\users\eduardo\downloads\blockout upado\include\glm\gtx\intersect.inl
+	"../geometric.hpp"
+	<cfloat>
+	<limits>
+
+1520446726 c:\users\eduardo\downloads\blockout upado\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CPoolNumeros.h"
+	"SDL_mixer.h"
+	"CAssetLoader.h"
+	"CMapaCaracteres.h"
+	"CGerenciadorObjetos.h"
+	"CGerenciadorTimers.h"
+	"CGerenciadorParticulas.h"
+	"CGerenciadorAnimacoes.h"
+	"CMouse.h"
+	"CJogo.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\begin_code.h
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\close_code.h
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156544 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376141916 c:\users\eduardo\downloads\blockout upado\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520448944 c:\users\eduardo\downloads\blockout upado\include\tipos_pig.h
+
+1422933084 c:\users\eduardo\downloads\blockout upado\include\cpoolnumeros.h
+
+1508772788 c:\users\eduardo\downloads\blockout upado\include\sdl\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520447350 c:\users\eduardo\downloads\blockout upado\include\cassetloader.h
+
+1525402860 c:\users\eduardo\downloads\blockout upado\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1510178036 c:\users\eduardo\downloads\blockout upado\include\coffscreenrenderer.h
+	"CPilhaCoordenada.h"
+
+1453511118 c:\users\eduardo\downloads\blockout upado\include\cpilhacoordenada.h
+
+1510006222 c:\users\eduardo\downloads\blockout upado\include\cgerenciadorobjetos.h
+	"CObjeto.h"
+
+1520447460 c:\users\eduardo\downloads\blockout upado\include\cobjeto.h
+
+1472006840 c:\users\eduardo\downloads\blockout upado\include\cgerenciadortimers.h
+	"CTimer.h"
+
+1471471856 c:\users\eduardo\downloads\blockout upado\include\ctimer.h
+
+1509670824 c:\users\eduardo\downloads\blockout upado\include\cgerenciadorparticulas.h
+	"CGeradorParticulas.h"
+
+1509670862 c:\users\eduardo\downloads\blockout upado\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1472173426 c:\users\eduardo\downloads\blockout upado\include\cparticula.h
+
+1509670910 c:\users\eduardo\downloads\blockout upado\include\cgerenciadoranimacoes.h
+	"CAnimacao.h"
+
+1472251542 c:\users\eduardo\downloads\blockout upado\include\canimacao.h
+
+1472266038 c:\users\eduardo\downloads\blockout upado\include\cmouse.h
+
+1525403083 c:\users\eduardo\downloads\blockout upado\include\cjogo.h
+
+1530821771 source:c:\users\eduardo\downloads\snake\main.cpp
+	<GL/glew.h>
+	<GL/glu.h>
+	"glm/glm.hpp"
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/intersect.hpp>
+	"stdio.h"
+	"PIG.h"
+
+1407851732 c:\users\eduardo\downloads\snake\glew-1.11.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<cstdint>
+
+1412984368 c:\users\eduardo\downloads\snake\include\glm\detail\setup.hpp
+	<cassert>
+	<cuda.h>
+	<x86intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\precision.hpp
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\_swizzle.hpp
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\_swizzle_func.hpp
+
+1393354078 c:\users\eduardo\downloads\snake\include\glm\detail\type_vec2.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1393354078 c:\users\eduardo\downloads\snake\include\glm\detail\type_vec3.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_vec4.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat2x2.inl"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat2x2.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat2x3.inl"
+
+1393351994 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat2x3.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat2x4.inl"
+
+1393351994 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat2x4.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat3x2.inl"
+
+1393351994 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat3x2.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat3x3.inl"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat3x3.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat3x4.inl"
+
+1393351994 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat3x4.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat4x2.inl"
+
+1393351994 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat4x2.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat4x3.inl"
+
+1393351994 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat4x3.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1393351994 c:\users\eduardo\downloads\snake\include\glm\detail\type_mat4x4.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\func_trigonometric.hpp
+	"func_trigonometric.inl"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1393351994 c:\users\eduardo\downloads\snake\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1393354078 c:\users\eduardo\downloads\snake\include\glm\detail\type_vec1.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1393351994 c:\users\eduardo\downloads\snake\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1396394864 c:\users\eduardo\downloads\snake\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cassert>
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1403287824 c:\users\eduardo\downloads\snake\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1403287824 c:\users\eduardo\downloads\snake\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1403287824 c:\users\eduardo\downloads\snake\include\glm\detail\type_half.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1403287824 c:\users\eduardo\downloads\snake\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1403361216 c:\users\eduardo\downloads\snake\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"func_integer.inl"
+
+1396394864 c:\users\eduardo\downloads\snake\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1403301672 c:\users\eduardo\downloads\snake\include\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1393351994 c:\users\eduardo\downloads\snake\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\gtc\constants.inl
+	<limits>
+
+1403287824 c:\users\eduardo\downloads\snake\include\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\gtc\type_ptr.inl
+	<cstring>
+
+1403356714 c:\users\eduardo\downloads\snake\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1403356714 c:\users\eduardo\downloads\snake\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1396394830 c:\users\eduardo\downloads\snake\include\glm\gtx\intersect.hpp
+	"../glm.hpp"
+	"../gtx/closest_point.hpp"
+	"intersect.inl"
+
+1396394830 c:\users\eduardo\downloads\snake\include\glm\gtx\closest_point.hpp
+	"../glm.hpp"
+	"closest_point.inl"
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\gtx\closest_point.inl
+
+1389476280 c:\users\eduardo\downloads\snake\include\glm\gtx\intersect.inl
+	"../geometric.hpp"
+	<cfloat>
+	<limits>
+
+1520446726 c:\users\eduardo\downloads\snake\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CPoolNumeros.h"
+	"SDL_mixer.h"
+	"CAssetLoader.h"
+	"CMapaCaracteres.h"
+	"CGerenciadorObjetos.h"
+	"CGerenciadorTimers.h"
+	"CGerenciadorParticulas.h"
+	"CGerenciadorAnimacoes.h"
+	"CMouse.h"
+	"CJogo.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\begin_code.h
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\close_code.h
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\downloads\snake\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156544 c:\users\eduardo\downloads\snake\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376141916 c:\users\eduardo\downloads\snake\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1530570807 c:\users\eduardo\downloads\snake\include\tipos_pig.h
+
+1422933084 c:\users\eduardo\downloads\snake\include\cpoolnumeros.h
+
+1508772788 c:\users\eduardo\downloads\snake\include\sdl\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520447350 c:\users\eduardo\downloads\snake\include\cassetloader.h
+
+1525402860 c:\users\eduardo\downloads\snake\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1510178036 c:\users\eduardo\downloads\snake\include\coffscreenrenderer.h
+	"CPilhaCoordenada.h"
+
+1453511118 c:\users\eduardo\downloads\snake\include\cpilhacoordenada.h
+
+1510006222 c:\users\eduardo\downloads\snake\include\cgerenciadorobjetos.h
+	"CObjeto.h"
+
+1520447460 c:\users\eduardo\downloads\snake\include\cobjeto.h
+
+1472006840 c:\users\eduardo\downloads\snake\include\cgerenciadortimers.h
+	"CTimer.h"
+
+1471471856 c:\users\eduardo\downloads\snake\include\ctimer.h
+
+1509670824 c:\users\eduardo\downloads\snake\include\cgerenciadorparticulas.h
+	"CGeradorParticulas.h"
+
+1509670862 c:\users\eduardo\downloads\snake\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1472173426 c:\users\eduardo\downloads\snake\include\cparticula.h
+
+1509670910 c:\users\eduardo\downloads\snake\include\cgerenciadoranimacoes.h
+	"CAnimacao.h"
+
+1472251542 c:\users\eduardo\downloads\snake\include\canimacao.h
+
+1472266038 c:\users\eduardo\downloads\snake\include\cmouse.h
+
+1525403083 c:\users\eduardo\downloads\snake\include\cjogo.h
+
+1530667830 source:c:\users\eduardo\pictures\snake\main.cpp
+	<GL/glew.h>
+	<GL/glu.h>
+	"glm/glm.hpp"
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/intersect.hpp>
+	"stdio.h"
+	"PIG.h"
+
+1407851732 c:\users\eduardo\pictures\snake\glew-1.11.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\glm.hpp
+	"detail/_fixes.hpp"
+	<cmath>
+	<climits>
+	<cfloat>
+	<limits>
+	<cassert>
+	"fwd.hpp"
+	"vec2.hpp"
+	"vec3.hpp"
+	"vec4.hpp"
+	"mat2x2.hpp"
+	"mat2x3.hpp"
+	"mat2x4.hpp"
+	"mat3x2.hpp"
+	"mat3x3.hpp"
+	"mat3x4.hpp"
+	"mat4x2.hpp"
+	"mat4x3.hpp"
+	"mat4x4.hpp"
+	"trigonometric.hpp"
+	"exponential.hpp"
+	"common.hpp"
+	"packing.hpp"
+	"geometric.hpp"
+	"matrix.hpp"
+	"vector_relational.hpp"
+	"integer.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\_fixes.hpp
+	<cmath>
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\fwd.hpp
+	"detail/type_int.hpp"
+	"detail/type_float.hpp"
+	"detail/type_vec.hpp"
+	"detail/type_mat.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\type_int.hpp
+	"setup.hpp"
+	<cstdint>
+
+1412984368 c:\users\eduardo\pictures\snake\include\glm\detail\setup.hpp
+	<cassert>
+	<cuda.h>
+	<x86intrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<smmintrin.h>
+	<pmmintrin.h>
+	<emmintrin.h>
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\type_float.hpp
+	"setup.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\type_vec.hpp
+	"precision.hpp"
+	"type_int.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\precision.hpp
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat.hpp
+	"precision.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\vec2.hpp
+	"detail/type_vec2.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_vec2.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec2.inl"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\_swizzle.hpp
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\_swizzle_func.hpp
+
+1393354078 c:\users\eduardo\pictures\snake\include\glm\detail\type_vec2.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\vec3.hpp
+	"detail/type_vec3.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_vec3.hpp
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec3.inl"
+
+1393354078 c:\users\eduardo\pictures\snake\include\glm\detail\type_vec3.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\vec4.hpp
+	"detail/type_vec4.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_vec4.hpp
+	"setup.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec4.inl"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_vec4.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\mat2x2.hpp
+	"detail/type_mat2x2.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat2x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat2x2.inl"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat2x2.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\mat2x3.hpp
+	"detail/type_mat2x3.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat2x3.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat2x3.inl"
+
+1393351994 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat2x3.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\mat2x4.hpp
+	"detail/type_mat2x4.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat2x4.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat2x4.inl"
+
+1393351994 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat2x4.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\mat3x2.hpp
+	"detail/type_mat3x2.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat3x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat3x2.inl"
+
+1393351994 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat3x2.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\mat3x3.hpp
+	"detail/type_mat3x3.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat3x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat3x3.inl"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat3x3.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\mat3x4.hpp
+	"detail/type_mat3x4.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat3x4.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat3x4.inl"
+
+1393351994 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat3x4.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\mat4x2.hpp
+	"detail/type_mat4x2.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat4x2.hpp
+	"../fwd.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat4x2.inl"
+
+1393351994 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat4x2.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\mat4x3.hpp
+	"detail/type_mat4x3.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat4x3.hpp
+	"../fwd.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	"type_mat4x3.inl"
+
+1393351994 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat4x3.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\mat4x4.hpp
+	"detail/type_mat4x4.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat4x4.hpp
+	"../fwd.hpp"
+	"type_vec4.hpp"
+	"type_mat.hpp"
+	<limits>
+	<cstddef>
+	"type_mat4x4.inl"
+
+1393351994 c:\users\eduardo\pictures\snake\include\glm\detail\type_mat4x4.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\trigonometric.hpp
+	"detail/func_trigonometric.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\func_trigonometric.hpp
+	"func_trigonometric.inl"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\func_trigonometric.inl
+	"_vectorize.hpp"
+	<cmath>
+	<limits>
+
+1393351994 c:\users\eduardo\pictures\snake\include\glm\detail\_vectorize.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\type_vec1.hpp
+	"../fwd.hpp"
+	"type_vec.hpp"
+	"_swizzle.hpp"
+	"_swizzle_func.hpp"
+	<cstddef>
+	"type_vec1.inl"
+
+1393354078 c:\users\eduardo\pictures\snake\include\glm\detail\type_vec1.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\exponential.hpp
+	"detail/func_exponential.hpp"
+
+1393351994 c:\users\eduardo\pictures\snake\include\glm\detail\func_exponential.hpp
+	"type_vec1.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	<cmath>
+	"func_exponential.inl"
+
+1396394864 c:\users\eduardo\pictures\snake\include\glm\detail\func_exponential.inl
+	"func_vector_relational.hpp"
+	"_vectorize.hpp"
+	<limits>
+	<cassert>
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\func_vector_relational.hpp
+	"precision.hpp"
+	"setup.hpp"
+	"func_vector_relational.inl"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\func_vector_relational.inl
+	<limits>
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\common.hpp
+	"detail/func_common.hpp"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\func_common.hpp
+	"setup.hpp"
+	"precision.hpp"
+	"type_int.hpp"
+	"_fixes.hpp"
+	"func_common.inl"
+
+1403287824 c:\users\eduardo\pictures\snake\include\glm\detail\func_common.inl
+	"func_vector_relational.hpp"
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"_vectorize.hpp"
+	<limits>
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\packing.hpp
+	"detail/func_packing.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\func_packing.hpp
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"func_packing.inl"
+
+1403287824 c:\users\eduardo\pictures\snake\include\glm\detail\func_packing.inl
+	"func_common.hpp"
+	"type_half.hpp"
+	"../fwd.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\type_half.hpp
+	"setup.hpp"
+	"type_half.inl"
+
+1403287824 c:\users\eduardo\pictures\snake\include\glm\detail\type_half.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\geometric.hpp
+	"detail/func_geometric.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\func_geometric.hpp
+	"type_vec3.hpp"
+	"func_geometric.inl"
+
+1403287824 c:\users\eduardo\pictures\snake\include\glm\detail\func_geometric.inl
+	"func_exponential.hpp"
+	"func_common.hpp"
+	"type_vec2.hpp"
+	"type_vec4.hpp"
+	"type_float.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\matrix.hpp
+	"detail/func_matrix.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\func_matrix.hpp
+	"../detail/precision.hpp"
+	"../detail/setup.hpp"
+	"../detail/type_mat.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	"func_matrix.inl"
+
+1403361216 c:\users\eduardo\pictures\snake\include\glm\detail\func_matrix.inl
+	"../geometric.hpp"
+	<limits>
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\vector_relational.hpp
+	"detail/func_vector_relational.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\integer.hpp
+	"detail/func_integer.hpp"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\detail\func_integer.hpp
+	"setup.hpp"
+	"func_integer.inl"
+
+1396394864 c:\users\eduardo\pictures\snake\include\glm\detail\func_integer.inl
+	"type_vec2.hpp"
+	"type_vec3.hpp"
+	"type_vec4.hpp"
+	"type_int.hpp"
+	"_vectorize.hpp"
+	<intrin.h>
+	<limits>
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\gtc\type_ptr.hpp
+	"../gtc/quaternion.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../mat2x2.hpp"
+	"../mat2x3.hpp"
+	"../mat2x4.hpp"
+	"../mat3x2.hpp"
+	"../mat3x3.hpp"
+	"../mat3x4.hpp"
+	"../mat4x2.hpp"
+	"../mat4x3.hpp"
+	"../mat4x4.hpp"
+	<cstring>
+	"type_ptr.inl"
+
+1403301672 c:\users\eduardo\pictures\snake\include\glm\gtc\quaternion.hpp
+	"../mat3x3.hpp"
+	"../mat4x4.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"quaternion.inl"
+
+1393351994 c:\users\eduardo\pictures\snake\include\glm\gtc\constants.hpp
+	"../detail/setup.hpp"
+	"constants.inl"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\gtc\constants.inl
+	<limits>
+
+1403287824 c:\users\eduardo\pictures\snake\include\glm\gtc\quaternion.inl
+	"../trigonometric.hpp"
+	"../geometric.hpp"
+	"../exponential.hpp"
+	<limits>
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\gtc\type_ptr.inl
+	<cstring>
+
+1403356714 c:\users\eduardo\pictures\snake\include\glm\gtc\matrix_transform.hpp
+	"../mat4x4.hpp"
+	"../vec2.hpp"
+	"../vec3.hpp"
+	"../vec4.hpp"
+	"../gtc/constants.hpp"
+	"matrix_transform.inl"
+
+1403356714 c:\users\eduardo\pictures\snake\include\glm\gtc\matrix_transform.inl
+	"../geometric.hpp"
+	"../trigonometric.hpp"
+	"../matrix.hpp"
+
+1396394830 c:\users\eduardo\pictures\snake\include\glm\gtx\intersect.hpp
+	"../glm.hpp"
+	"../gtx/closest_point.hpp"
+	"intersect.inl"
+
+1396394830 c:\users\eduardo\pictures\snake\include\glm\gtx\closest_point.hpp
+	"../glm.hpp"
+	"closest_point.inl"
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\gtx\closest_point.inl
+
+1389476280 c:\users\eduardo\pictures\snake\include\glm\gtx\intersect.inl
+	"../geometric.hpp"
+	<cfloat>
+	<limits>
+
+1520446726 c:\users\eduardo\pictures\snake\include\pig.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"Tipos_PIG.h"
+	"CPoolNumeros.h"
+	"SDL_mixer.h"
+	"CAssetLoader.h"
+	"CMapaCaracteres.h"
+	"CGerenciadorObjetos.h"
+	"CGerenciadorTimers.h"
+	"CGerenciadorParticulas.h"
+	"CGerenciadorAnimacoes.h"
+	"CMouse.h"
+	"CJogo.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\begin_code.h
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\close_code.h
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 c:\users\eduardo\pictures\snake\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376156544 c:\users\eduardo\pictures\snake\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376141916 c:\users\eduardo\pictures\snake\include\sdl_image\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1530570807 c:\users\eduardo\pictures\snake\include\tipos_pig.h
+
+1422933084 c:\users\eduardo\pictures\snake\include\cpoolnumeros.h
+
+1508772788 c:\users\eduardo\pictures\snake\include\sdl\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520447350 c:\users\eduardo\pictures\snake\include\cassetloader.h
+
+1525402860 c:\users\eduardo\pictures\snake\include\cmapacaracteres.h
+	"COffscreenRenderer.h"
+
+1510178036 c:\users\eduardo\pictures\snake\include\coffscreenrenderer.h
+	"CPilhaCoordenada.h"
+
+1453511118 c:\users\eduardo\pictures\snake\include\cpilhacoordenada.h
+
+1510006222 c:\users\eduardo\pictures\snake\include\cgerenciadorobjetos.h
+	"CObjeto.h"
+
+1520447460 c:\users\eduardo\pictures\snake\include\cobjeto.h
+
+1472006840 c:\users\eduardo\pictures\snake\include\cgerenciadortimers.h
+	"CTimer.h"
+
+1471471856 c:\users\eduardo\pictures\snake\include\ctimer.h
+
+1509670824 c:\users\eduardo\pictures\snake\include\cgerenciadorparticulas.h
+	"CGeradorParticulas.h"
+
+1509670862 c:\users\eduardo\pictures\snake\include\cgeradorparticulas.h
+	"CParticula.h"
+
+1472173426 c:\users\eduardo\pictures\snake\include\cparticula.h
+
+1509670910 c:\users\eduardo\pictures\snake\include\cgerenciadoranimacoes.h
+	"CAnimacao.h"
+
+1472251542 c:\users\eduardo\pictures\snake\include\canimacao.h
+
+1472266038 c:\users\eduardo\pictures\snake\include\cmouse.h
+
+1525403083 c:\users\eduardo\pictures\snake\include\cjogo.h
+

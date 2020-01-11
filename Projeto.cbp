@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projeto" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="Projeto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="/.objs" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-ansi" />
+					<Add option="-DGLEW_STATIC" />
+					<Add directory="glew-1.11.0/include" />
+					<Add directory="include" />
+					<Add directory="include/SDL" />
+					<Add directory="include/SDL_image" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lmingw32   -lSDL2main -lSDL2 -lSDL2_image  -lSDL2_ttf -lglu32" />
+					<Add library="glew-1.11.0\lib\Release\Win32\glew32s.lib" />
+					<Add library="glew-1.11.0\lib\Release\Win32\glew32.lib" />
+					<Add library="opengl32" />
+					<Add directory="lib" />
+					<Add directory="bin" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/CFace3D.h" />
+		<Unit filename="include/CGrupo3D.h" />
+		<Unit filename="include/CObjeto3D.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="include/CObjeto3D2.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="include/CObjeto3D3.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="include/model_loader/vertexBufferObject.h" />
+		<Unit filename="include/tiny_loader.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<DoxyBlocks>
+				<comment_style block="0" line="0" />
+				<doxyfile_project />
+				<doxyfile_build />
+				<doxyfile_warnings />
+				<doxyfile_output />
+				<doxyfile_dot />
+				<general />
+			</DoxyBlocks>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

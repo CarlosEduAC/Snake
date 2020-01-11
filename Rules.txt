@@ -1,0 +1,10 @@
+Roda no eixo X - Horário (w) Antihorário (q)
+Roda no eixo Y - Horário (s) Antihorário (a)
+Roda no eixo Z - Horário (x) Antihorário (z)
+
+Esquerda - Tecla Esquerda
+Direita - Tecla Direita
+Cima - Tecla Cima
+Baixo - Tecla Baixo
+
+Cai mais rápido = Espaço
